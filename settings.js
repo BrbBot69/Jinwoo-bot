@@ -1,11 +1,11 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
 // @project_name : Jinwoo
-// @author : Malvin
+// @author : 𝕬𝖛𝖊.𝕭
 // @youtube : https://www.youtube.com/@malvintech2
-// @instagram : techlord01
+// @instagram : 808hasducks
 // @telegram : t.me/malvinking2
-// @github : xdking2
+// @github : BrbBot69
 // @whatsapp : +27767494368
 
 //----------------------[ Jinwoo ]----------------------//
