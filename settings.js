@@ -6,7 +6,7 @@
 // @instagram : techlord01
 // @telegram : t.me/malvinking2
 // @github : xdking2
-// @whatsapp : +263714757857
+// @whatsapp : +27767494368
 
 //----------------------[ Jinwoo ]----------------------//
 
@@ -26,17 +26,17 @@ global.botname = process.env.BOT_NAME || 'ᴊɪɴᴡᴏᴏ-ʙᴏᴛ'
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '263780166288' 
+global.ownernumber = process.env.OWNER_NUMBER || '27767494368' 
 
 //--------------------[ SUDO ]--------------------------//
 
-global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['263714757857', '263780934873'];
+global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['27767494368', '27818232269'];
 // Type additional allowed users here
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'ᴍᴀʟᴠɪɴ ᴋɪɴɢ' 
+global.ownername = process.env.OWNER_NAME || '𝕬𝖛𝖊.𝕭' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
@@ -85,7 +85,7 @@ global.chatbot = process.env.CHATBOT || 'false'
 
 //-------------------[ ANTI DELETE ]--------------------//
 
-global.antidelete = process.env.ANTIDELETE || 'private'
+global.antidelete = process.env.ANTIDELETE || 'off'
 // options:- 'private', 'chat' or 'off'
 // private = Sends to message yourself 
 // chat = sends to the current chat 
@@ -93,7 +93,7 @@ global.antidelete = process.env.ANTIDELETE || 'private'
 
 //---------------------[ ANTI EDIT ]----------------------//
 
-global.antiedit = process.env.ANTI_EDIT || 'private'
+global.antiedit = process.env.ANTI_EDIT || 'off'
 // options:- 'private', 'chat' or 'off'
 // private = Sends to message yourself 
 // chat = sends to the current chat 
@@ -114,7 +114,7 @@ global.welcome = process.env.WELCOME_MSG || 'false'
 
 //----------------------[ TIMEZONE ]--------------------//
 
-global.timezones = process.env.TIMEZONE || "Africa/Nairobi" 
+global.timezones = process.env.TIMEZONE || "Africa/Johannesburg" 
 //Don't edit this if you don't know!
 
 //--------------------[ AUTO READ ]--------------------//
@@ -140,7 +140,7 @@ global.dbToken = process.env.GITHUB_TOKEN || "";
 
 //-----------------[ CONTEXT LINK ]--------------------//
 
-global.plink = process.env.PLINK || "https://www.instagram.com/@techlord01"
+global.plink = process.env.PLINK || "https://www.instagram.com/@808hasducks"
 
 //------------------[ WATERMARK ]--------------------//
 
